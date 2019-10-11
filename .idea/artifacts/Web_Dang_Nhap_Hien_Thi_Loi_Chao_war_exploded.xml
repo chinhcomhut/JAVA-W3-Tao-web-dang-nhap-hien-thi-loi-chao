@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="Web Dang Nhap Hien Thi Loi Chao:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/Web_Dang_Nhap_Hien_Thi_Loi_Chao_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="Web Dang Nhap Hien Thi Loi Chao/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="Web Dang Nhap Hien Thi Loi Chao" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
